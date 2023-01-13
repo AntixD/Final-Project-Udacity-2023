@@ -6,7 +6,7 @@
 
 # npm install - run this to install all required packages
 
-# make sure your port 8085 is available
+# make sure your port 8089 is available
 
 # npm start
 
